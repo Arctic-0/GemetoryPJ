@@ -16,7 +16,7 @@ JDK1.6
 #  How to run
 
 ```
-1.  git clone
+1.  git clone https://github.com/whimsycwd/GemetoryPJ.git
 2.  mvn clean compile
 3.  mvn exec:java -Dexec.mainClass="base.FillPolygon"   # 多边形填充
 4.  mvn exec:java -Dexec.mainClass="bonus.Cube"         # 3D立方体投影		
@@ -27,21 +27,21 @@ JDK1.6
 ##多边形填充
 
 
-<image src="./readmeImage/polygon.png" width="400", height="300">
+<image src="readmeImage/polygon.png" width="400", height="300">
 
 1.	鼠标点击n个点
 2.	最后一个点双击 
 3.	这n个点组成的的多边形内部被染色
 
 示例:
-<image src="./readmeImage/polygon2.png" width="400", height="300">
-<image src="./readmeImage/polygon3.png" width="400", height="300">
+<image src="readmeImage/polygon2.png" width="400", height="300">
+<image src="readmeImage/polygon3.png" width="400", height="300">
 
 
 
 ## 3D立方体投影
 
-<image src="./readmeImage/cube.png" width="400", height="400">
+<image src="readmeImage/cube.png" width="400", height="400">
 
 * `w` and `s` : Pitch
 

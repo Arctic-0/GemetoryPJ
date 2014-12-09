@@ -28,21 +28,24 @@ JDK1.6
 
 
 
-![polygon](./polygon.png)
+![polygon](./readmeImage/polygon.png)
 
 1.	鼠标点击n个点
 2.	最后一个点双击 
 3.	这n个点组成的的多边形内部被染色
 
 示例:
-<image src="readmeImage/polygon2.png" width="400", height="300">
-<image src="readmeImage/polygon3.png" width="400", height="300">
+![polygon2](./readmeImage/polygon2.png)
+
+![polygon3](./readmeImage/polygon3.png)
 
 
 
 ## 3D立方体投影
 
-<image src="readmeImage/cube.png" width="400", height="400">
+
+![cube](./readmeImage/cube.png)
+
 
 * `w` and `s` : Pitch
 

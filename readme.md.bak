@@ -28,8 +28,9 @@ JDK1.6
 
 
 
+![polgyon]("./readmeImage/polygon.png")
 
-<image src="polygon.png" width="400", height="300">
+<image src="readmeImage/polygon.png" width="400", height="300">
 
 1.	鼠标点击n个点
 2.	最后一个点双击 

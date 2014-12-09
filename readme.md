@@ -28,8 +28,7 @@ JDK1.6
 
 
 
-
-<image src="polygon.png" width="400", height="300">
+![polygon](./polygon.png)
 
 1.	鼠标点击n个点
 2.	最后一个点双击 
